@@ -54,7 +54,7 @@ Before running the web app, you'll need the following:
    python app.py
    ```
 
-5. Access the app by opening a web browser and navigating to `public URL: https://b53acd17be51fc764b.gradio.live`.
+5. Access the app by opening a web browser and navigating to 'https://b53acd17be51fc764b.gradio.live`.
 
 ## Usage
 
